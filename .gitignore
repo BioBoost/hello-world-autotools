@@ -9,3 +9,5 @@ Makefile
 config.log
 config.status
 *.tar.gz
+hello
+*.o
