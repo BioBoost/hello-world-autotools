@@ -1,4 +1,4 @@
-# Hello World App Image
+# Hello World AutoTools
 
 Based on [https://thoughtbot.com/blog/the-magic-behind-configure-make-make-install](https://thoughtbot.com/blog/the-magic-behind-configure-make-make-install)
 
